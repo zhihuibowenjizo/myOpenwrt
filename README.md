@@ -1,6 +1,6 @@
 # myOpenwrt
 自用openwrt 镜像
-带helloworld 及 UU加速器插件
+附带helloworld 、 UU加速器插件 、 广告屏蔽
 
 ## 适用架构
 x86 
